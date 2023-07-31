@@ -1,0 +1,37 @@
+{
+  "version": "0.0.1",
+  "name": "EasyTweak",
+  "description": "Легкий и полностью открытый твикер KaiOS для непривилегированного использования",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "icons": {
+    "56": "/easy-tweak-56.png",
+    "112": "/easy-tweak-112.png"
+  },
+  "developer": {
+    "name": "Luxferre"
+  },
+  "origin": "app://easytweak.bananahackers.net",
+  "fullscreen": true,
+  "permissions": {
+    "external-api": {
+      "description": "Работа с устройствами на базе KaiOS 2.5.1+"
+    },
+    "power": {
+      "description": "Включение привилегированной возможности сброса до заводских настроек"
+    },
+    "settings": {
+      "access": "readwrite",
+      "description": "Включить модификацию скрытых настроек"
+    },
+    "device-storage:apps": {
+      "access": "readwrite",
+      "description": "Установка пакетов"
+    },
+    "webapps-manage": {
+      "description": "Установка пакетов"
+    }
+  },
+  "theme_color": "#aba8aa",
+  "cursor": "false"
+}
