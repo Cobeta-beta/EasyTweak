@@ -8,7 +8,9 @@
 ## Текущая версия
 
 CrossTweak : 0.0.1
+
 Перевод : 1.0
+
 ## Список текущих функций
 
 - `1`: Установка мелодии звонка из произвольного файла (поддерживаются все источники)
@@ -24,8 +26,9 @@ CrossTweak : 0.0.1
 
 ## Установка
 
-Установка через WebIDE (Старые версии Firefox или Palemoon) или через [gdeploy](https://gitlab.com/suborg/gdeploy). Можно так-же установить через OmniSD, но я не рекомендую данные метод.
+Можно установить [WebIDE версию](https://github.com/Cobeta-beta/EasyTweak/releases/download/1.0/EasyTweak-WebIDE.zip) (с помощью старых версий FireFox, либо с помощью старых версий PaleMoon.) либо установить через [gdeploy](https://gitlab.com/suborg/gdeploy). Так-же есть [OmniSD версия](https://github.com/Cobeta-beta/EasyTweak/releases/download/1.0/EasyTweak-OmniSD.zip) но я бы не рекомендовала устанавливать OmniSD версию. Только если у вас нету компьютера в доступности.
 
 ## Авторы
 
 Создано и усовершенствовано группой [BananaHackers](https://bananahackers.net). Распространяется на условиях общественного достояния.
+Перевела : [Cobeta](https://4pda.to/forum/index.php?showuser=11373575)
