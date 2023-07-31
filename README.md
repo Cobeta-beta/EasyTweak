@@ -31,4 +31,5 @@ CrossTweak : 0.0.1
 ## Авторы
 
 Создано и усовершенствовано группой [BananaHackers](https://bananahackers.net). Распространяется на условиях общественного достояния.
+
 Перевела : [Cobeta](https://4pda.to/forum/index.php?showuser=11373575)
